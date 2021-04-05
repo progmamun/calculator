@@ -1,0 +1,7 @@
+https://npmcdn.com/react@15.2.1/dist/react.min.js
+
+https://npmcdn.com/react-dom@15.2.1/dist/react-dom.min.js
+
+https://npmcdn.com/number-to-locale-string@1.0.1/polyfill.number.toLocaleString.js
+
+https://npmcdn.com/react-point@2.0.0/umd/react-point.min.js
